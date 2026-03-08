@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template_string
-import tensorflow as tf
+# import tensorflow as tf
 import numpy as np
 import json
 import os
